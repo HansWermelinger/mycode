@@ -4,7 +4,7 @@
 <<
 /CreationDate 3 0 R
 /Creator 4 0 R
-/ModDate (D:20241208135056+01'00')
+/ModDate (D:20241208135552+01'00')
 /Producer 5 0 R
 /Title 6 0 R
 >>
@@ -77,7 +77,7 @@ stream
 			<xmp:MetadataDate>2014-02-24T12:57:47-07:00</xmp:MetadataDate>
 			<xmp:CreateDate>2014-02-24T20:58:05+01:00</xmp:CreateDate>
 			<xmp:CreatorTool>Adobe Illustrator CC (Macintosh)</xmp:CreatorTool>
-			<xmp:ModifyDate>2024-12-08T13:50:56+01:00</xmp:ModifyDate>
+			<xmp:ModifyDate>2024-12-08T13:55:52+01:00</xmp:ModifyDate>
 			<xmpMM:DerivedFrom rdf:parseType="Resource">
 				<stRef:renditionClass>proof:pdf</stRef:renditionClass>
 				<stRef:documentID>xmp.did:f66b41be-a20f-4bc7-95bb-9f35a2cf7b83</stRef:documentID>
@@ -742,16 +742,16 @@ endobj
 /BS <<
 /W 0
 >>
-/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit switch branchname \(wechelse der aktiven branch\)\r)
+/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit switch branchname \(wechelse der aktiven branch\)\rgit merge -m message branchevon \(merge branchevon zu branchezu\))
 /CreationDate (D:20241208134758+01'00')
 /DA (0 0 0 rg /F1 9 Tf)
 /DS (font-family:Courier New;font-size:9pt;color:#0000FF;)
 /F 4
 /IT /FreeTextTypewriter
-/M (D:20241208135056+01'00')
+/M (D:20241208135552+01'00')
 /NM (a3b1800e-64db-428a-820d96a4ee13e805)
 /P 14 0 R
-/Rect [39 389.712036 314.399994 440.697021]
+/Rect [39 389.712036 379.199982 440.697021]
 /Subj (Schreibmaschine)
 /Subtype /FreeText
 /T (mother)
@@ -967,21 +967,21 @@ endstream
 endobj
 44 0 obj
 <<
-/BBox [39 389.712036 314.399994 440.697021]
+/BBox [39 389.712036 379.199982 440.697021]
 /Filter /FlateDecode
-/Length 199
+/Length 228
 /Matrix [1 0 0 1 -39 -389.712036]
 /Resources <<
 /Font <<
-/F0 11 0 R
+/F0 57 0 R
 >>
 >>
 /Subtype /Form
 /Type /XObject
 >>
 stream
-x⁄}é;¬0Ñ˜˛äa $U…®àâEba	≈¥·ë!-T‚◊cBÇ≈g˘|ü≠Ùÿà\•HÛLåêIa∆"!$˙∑πf{j		ÖX±ÿÚQ:(…r{Ùq8ó0∞{0h§µHawIo∂*&∂¿≤Xc∫ö,gãæ=0h†§P&ÆTæ≈6∫P÷ÿÙn‰+
-Ë<]=ùàç‡ ö¯Ü˝⁄mi”ˇãxIpgbZ†≈˜ËWÆÈ|˚ùÎàoû¬é„Óÿ˙+ˇÙâ)lr¿J\˝
+x⁄}é?o¬0≈˜|ä7¬@jcxî™≤ƒ¬b¬’qK\…Œ)üæGC•™,˜Œ˜Ó˝|JC≠uæís®Ö»ÁXä\ØóàÑê©«ÊëÌ≠…$¢c1Â≠ÙêÇe∏ıÒÂU@√ºÉA•`.Ÿdw(6¶¿æ8b{ÿÏwoSÛ¡†ôπ‘´üÁú£eÖ”d Ô(†˜‘y∫¡ñ%¯ƒ~eœtö>EålML‘RºèÂRÔõˇπû¯œk"\8n?ﬂÒMœ15EGò’‹§d›◊©˚
+›?£°˝}Ìà,Lˆ'£x|
 endstream
 endobj
 45 0 obj
@@ -1006,7 +1006,7 @@ endobj
 /Descent -235
 /Flags 5
 /FontBBox [-51 -235 754 945]
-/FontFile2 57 0 R
+/FontFile2 58 0 R
 /FontName /TFOEGC+PTMono-Bold
 /ItalicAngle 0
 /MaxWidth 600
@@ -1034,7 +1034,7 @@ endobj
 /Descent -270
 /Flags 32
 /FontBBox [-111 -301 1486 1026]
-/FontFile3 58 0 R
+/FontFile3 59 0 R
 /FontName /MVSMHV+ApexNew-Book
 /ItalicAngle 0
 /MaxWidth 1597
@@ -1051,7 +1051,7 @@ endobj
 /Descent -270
 /Flags 32
 /FontBBox [-251 -301 1536 1121]
-/FontFile3 59 0 R
+/FontFile3 60 0 R
 /FontName /RIMATZ+ApexNew-Bold
 /ItalicAngle 0
 /MaxWidth 1787
@@ -1068,7 +1068,7 @@ endobj
 /Descent -270
 /Flags 4
 /FontBBox [-111 -301 1486 1026]
-/FontFile3 60 0 R
+/FontFile3 61 0 R
 /FontName /MVNVNL+ApexNew-Book
 /ItalicAngle 0
 /MaxWidth 1597
@@ -1107,7 +1107,7 @@ endobj
 53 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace [/Indexed /DeviceRGB 171 61 0 R]
+/ColorSpace [/Indexed /DeviceRGB 171 62 0 R]
 /Filter /FlateDecode
 /Height 64
 /Length 1888
@@ -1131,7 +1131,7 @@ endobj
 /BaseFont /CourierNew
 /Encoding /WinAnsiEncoding
 /FirstChar 32
-/FontDescriptor 62 0 R
+/FontDescriptor 63 0 R
 /LastChar 255
 /Subtype /TrueType
 /Type /Font
@@ -1836,6 +1836,23 @@ endstream
 endobj
 57 0 obj
 <<
+/BaseFont /CourierNew
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/FontDescriptor 64 0 R
+/LastChar 122
+/Subtype /TrueType
+/Type /Font
+/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 600 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 600 600 600 0 600 0 0 600 0 0 0 0 0 600 0
+0 0 600 0 600 0 0 600 0 0 0 0 0 0 0 0
+0 600 600 600 600 600 0 600 600 600 0 600 600 600 600 600
+0 0 600 600 600 600 600 600 0 0 600]
+>>
+endobj
+58 0 obj
+<<
 /Filter /FlateDecode
 /Length 6168
 /Length1 9576
@@ -1863,7 +1880,7 @@ v‡.·rﬁãnæñs††_ËiÅ&∫&–√}E†Ot“ú|]†{*Tıé√ﬂ:EÀˇ∂/Z/ÙÙˆˆ∞˚}}âdOèâ«ÀL£
 U©≤$•<PÎ ˝buÍcEp~;^Ω.dq~ÀæóPâd?NàÀíû⁄!‡k‰<X ◊ˇ◊ŸãXó3◊Â6÷ë¸˙:ì˚>PÀæ∂ìkvÏôπÏ]ÖΩ◊\~xÒpˇ‘·C∑¸àÖ›
 endstream
 endobj
-58 0 obj
+59 0 obj
 <<
 /Filter /FlateDecode
 /Length 3681
@@ -1883,7 +1900,7 @@ YGπL#ìÈd≤±›eã)ŸgîÃ$£)jÉåRËd^ì”hŸ8é,F'˚öÍL®t™ò∫◊nLª∞vÒÌ“⁄Y⁄=óÎÂ_»ˇ©≠0(Rß
 Å÷‹ÖT69≥Ï©“~5KL%€∫⁄¢´8ê¨Z›[lƒﬂ•±˜¿Œb⁄ã¡Œˆ»ù'Ye…¡º/z√˚voÈ÷Ö¯‡<ö;åz¶"u(Ù$üwﬂ3Ëi†áÙHÜ|Í∞»-Ëq˙cM“Õ_	ÕÄ¶ŸW!ç;ÈZÚmâÙhuîNÖä/ØäŒW)—]uKY8'ÍË;5±xŒÆ£?aπwoyfø˙«2≤:é&À—cÊk≤(a†ÍÕ‹…t„°6‚ÈVe°x°çB·ù∂·«‹Á≈y_¨;£≠d∑ÜŒ¯G∞?Ó?Ñ—-âbïÒ-¬üéO»hj¥ˇ‰ŸÊˆ◊Æ§“ÚÊ=ªìí≤µˆØ=øéÏÌ›UmAËN≤“vh’6OÆg6øõ\ÿ”_´_[ÜïÖ}Ál#è“xKo;Âòñ)˜¨u ¡À∑	%”≤∂Jbı¸äˇ/´#⁄ 2˝@´⁄ "Ï3 Û-ÏC˜∂Ì€™Â6Ì_tú∑˝EÔï≤o∑Í∂∑;”ú&nLÉuif§±0≠´xùˇk⁄{∂
 endstream
 endobj
-59 0 obj
+60 0 obj
 <<
 /Filter /FlateDecode
 /Length 3017
@@ -1908,7 +1925,7 @@ b›tá€=µIXÆG’¯ü&"±ê∫µpûHÃ¿îHêïRÙ≥m`«ÜÆ
 ´*X¯–Iπ ¸≤ÉÂî
 endstream
 endobj
-60 0 obj
+61 0 obj
 <<
 /Filter /FlateDecode
 /Length 3681
@@ -1928,7 +1945,7 @@ YGπL#ìÈd≤±›eã)ŸgîÃ$£)jÉåRËd^ì”hŸ8é,F'˚öÍL®t™ò∫◊nLª∞vÒÌ“⁄Y⁄=óÎÂ_»ˇ©≠0(Rß
 Å÷‹ÖT69≥Ï©“~5KL%€∫⁄¢´8ê¨Z›[lƒﬂ•±˜¿Œb⁄ã¡Œˆ»ù'Ye…¡º/z√˚voÈ÷Ö¯‡<ö;åz¶"u(Ù$üwﬂ3Ëi†áÙHÜ|Í∞»-Ëq˙cM“Õ_	ÕÄ¶ŸW!ç;ÈZÚmâÙhuîNÖä/ØäŒW)—]uKY8'ÍË;5±xŒÆ£?aπwoyfø˙«2≤:é&À—cÊk≤(a†ÍÕ‹…t„°6‚ÈVe°x°çB·ù∂·«‹Á≈y_¨;£≠d∑ÜŒ¯G∞?Ó?Ñ—-âbïÒ-¬üéO»hj¥ˇ‰ŸÊˆ◊Æ§“ÚÊ=ªìí≤µˆØ=øéÏÌ›UmAËN≤“vh’6OÆg6øõ\ÿ”_´_[ÜïÖ}Ál#è“xKo;Âòñ)˜¨u ¡À∑	%”≤∂Jbı¸äˇ/´#⁄ 2˝@´⁄ "Ï3 Û-ÏC˜∂Ì€™Â6Ì_tú∑˝EÔï≤o∑Í∂∑;”ú&nLÉuif§±0≠´xùˇk⁄{∂
 endstream
 endobj
-61 0 obj
+62 0 obj
 <<
 /Filter /FlateDecode
 /Length 432
@@ -1939,7 +1956,22 @@ x⁄å©è2A≈ü¬¨iÅ@Ä%ì4n<äD˜1∞;Æ≈(∂«–ÇÏ1‹◊2ú√µ“◊|…Ø™^Ωó* >‡– 
 ≈b±T*ïÀe√0gïJ•Z≠æøø||ò¶Y´’⁄ZD0FßíSGO∂uÀâZÇ3…i¡ﬂB†Ö†:v sÇK¡]Ö‰55ÕnËMSW›T¡%„¢ë∞„∫gFΩF¬kÎÕvTa;äD≥ùP›n'<'·1!ôpπê\∫RW!Ö´ÜîB∫JI)m€ÓvªΩ^ÔÛÛÛÎÎÎ˚˚[πˇWçüü«q˙˝˛`0á£—h<O&ìÈt:õÕÊÛ˘b±X.óøøø´’ u›ızΩŸl∂€Ìn∑€Ô˜á√¡Ûº„Òx:ùŒÁÛÂrπ^Ø∑€Ì~ø?èÁÛ˘ ◊ÿ$
 endstream
 endobj
-62 0 obj
+63 0 obj
+<<
+/Ascent 833
+/CapHeight 571
+/Descent -300
+/Flags 32
+/FontBBox [-122 -680 623 1021]
+/FontFamily (CourierNew)
+/FontName /CourierNew
+/FontWeight 400
+/ItalicAngle 0
+/StemV 0
+/Type /FontDescriptor
+>>
+endobj
+64 0 obj
 <<
 /Ascent 833
 /CapHeight 571
@@ -1955,7 +1987,7 @@ endobj
 >>
 endobj
 xref
-0 63
+0 65
 0000000000 65535 f
 0000000015 00000 n
 0000000135 00000 n
@@ -1985,48 +2017,50 @@ xref
 0000095057 00000 n
 0000095513 00000 n
 0000096157 00000 n
-0000096737 00000 n
-0000096791 00000 n
-0000096839 00000 n
-0000096885 00000 n
-0000096934 00000 n
-0000096980 00000 n
-0000097285 00000 n
-0000097945 00000 n
-0000098376 00000 n
-0000098611 00000 n
-0000098813 00000 n
-0000099017 00000 n
-0000099532 00000 n
-0000099741 00000 n
-0000100098 00000 n
-0000100307 00000 n
-0000100727 00000 n
-0000101318 00000 n
-0000101554 00000 n
-0000102074 00000 n
-0000102316 00000 n
-0000102559 00000 n
-0000102800 00000 n
-0000103125 00000 n
-0000103942 00000 n
-0000106007 00000 n
-0000107050 00000 n
-0000108127 00000 n
-0000310173 00000 n
-0000316429 00000 n
-0000320201 00000 n
-0000323309 00000 n
-0000327081 00000 n
+0000096802 00000 n
+0000096856 00000 n
+0000096904 00000 n
+0000096950 00000 n
+0000096999 00000 n
+0000097045 00000 n
+0000097350 00000 n
+0000098010 00000 n
+0000098441 00000 n
+0000098676 00000 n
+0000098878 00000 n
+0000099082 00000 n
+0000099597 00000 n
+0000099806 00000 n
+0000100163 00000 n
+0000100372 00000 n
+0000100821 00000 n
+0000101412 00000 n
+0000101648 00000 n
+0000102168 00000 n
+0000102410 00000 n
+0000102653 00000 n
+0000102894 00000 n
+0000103219 00000 n
+0000104036 00000 n
+0000106101 00000 n
+0000107144 00000 n
+0000108221 00000 n
+0000310267 00000 n
+0000310678 00000 n
+0000316934 00000 n
+0000320706 00000 n
+0000323814 00000 n
 0000327586 00000 n
+0000328091 00000 n
+0000328304 00000 n
 trailer
 <<
 /ID [<378D78094EE3AFCD9AA56448D2631C29> <378D78094EE3AFCD9AA56448D2631C29>]
 /Info 1 0 R
 /Root 2 0 R
-/Size 63
+/Size 65
 >>
-%PXC-Ver:10.3.1.387-Date:20241208125056-SHA:00050675:0E0214E79905E43BA97A6DB723BCBAC0BDD251C7A9FFB52D5DA51D6707DCA95B
+%PXC-Ver:10.3.1.387-Date:20241208125552-SHA:0005096B:26CA1E8C5E93FFDF80CA6E79C72A748832CBC9996CA5A1CAF9E48452CA649B76
 startxref
-327799
+328517
 %%EOF
