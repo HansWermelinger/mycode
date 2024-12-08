@@ -4,7 +4,7 @@
 <<
 /CreationDate 3 0 R
 /Creator 4 0 R
-/ModDate (D:20241208143610+01'00')
+/ModDate (D:20241208145957+01'00')
 /Producer 5 0 R
 /Title 6 0 R
 >>
@@ -78,7 +78,7 @@ stream
 			<xmp:MetadataDate>2014-02-24T12:57:47-07:00</xmp:MetadataDate>
 			<xmp:CreateDate>2014-02-24T20:58:05+01:00</xmp:CreateDate>
 			<xmp:CreatorTool>Adobe Illustrator CC (Macintosh)</xmp:CreatorTool>
-			<xmp:ModifyDate>2024-12-08T14:36:10+01:00</xmp:ModifyDate>
+			<xmp:ModifyDate>2024-12-08T14:59:57+01:00</xmp:ModifyDate>
 			<xmpMM:DerivedFrom rdf:parseType="Resource">
 				<stRef:renditionClass>proof:pdf</stRef:renditionClass>
 				<stRef:documentID>xmp.did:f66b41be-a20f-4bc7-95bb-9f35a2cf7b83</stRef:documentID>
@@ -802,16 +802,16 @@ endobj
 /BS <<
 /W 0
 >>
-/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit brnach -c branchenmane \(neuer branch und switch in branch\)\rgit switch branchname \(wechelse der aktiven branch\)\rgit merge -m message branchesohn \(merge branchesohn zu branchevater ACHTUNG: muss in branchevater sein\)\r\rgit branch -d branchname \(delete branch\)\r\rMERGE CONFLICTS: wenn sich etwas in branchvater und branchsohn ge‰ndert hat\r)
+/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit brnach -c branchenmane \(neuer branch und switch in branch\)\rgit switch branchname \(wechelse der aktiven branch\)\rgit merge -m message branchesohn \(merge branchesohn zu branchevater ACHTUNG: muss in branchevater sein\)\r\rgit branch -d branchname \(delete branch\)\r\rMERGE CONFLICTS: wenn sich etwas in branchvater und branchsohn ge‰ndert hat\r\r\rgit pull = git fetch + git merge\r)
 /CreationDate (D:20241208134758+01'00')
 /DA (0 0 0 rg /F1 9 Tf)
 /DS (font-family:Courier New;font-size:9pt;color:#0000FF;)
 /F 4
 /IT /FreeTextTypewriter
-/M (D:20241208143516+01'00')
+/M (D:20241208145956+01'00')
 /NM (a3b1800e-64db-428a-820d96a4ee13e805)
 /P 15 0 R
-/Rect [39 328.530029 595.199951 440.697021]
+/Rect [39 297.939026 595.199951 440.697021]
 /Subj (Schreibmaschine)
 /Subtype /FreeText
 /T (mother)
@@ -1072,21 +1072,22 @@ endstream
 endobj
 50 0 obj
 <<
-/BBox [39 328.530029 595.199951 440.697021]
+/BBox [39 297.939026 595.199951 440.697021]
 /Filter /FlateDecode
-/Length 336
-/Matrix [1 0 0 1 -39 -328.530029]
+/Length 361
+/Matrix [1 0 0 1 -39 -297.939026]
 /Resources <<
 /Font <<
-/F0 12 0 R
+/F0 65 0 R
 >>
 >>
 /Subtype /Form
 /Type /XObject
 >>
 stream
-x⁄Öë¡rÇ0ÜÔ>≈ı ÇZº)É⁄ôñŒÿtºxâ∞Ö¥íŒê 3>}¡Vù±^≤I˛›oˇlX Ã{¥áÜ√ëÌÅÎz∂;Câ†zÏ∂∏&y∆{8‡BôQ‡I≥‘‡:Õæ|ò; ˇ ˘åÅßΩ~∏ä¶<Ç8Z√l5ç√ÂÄ»r€∆«îLÿñB%9l˙î*®%Ó%Óê%í5HMz.∂∏¸ãhÉMaÖewuªÆÈ V“Â°*Ñ∫.ÜJ•†kih+’bów·§F"Ô4BJLÒe‰Ôa
-,3´†ç÷"√ì?˝ù+"∂Ú˘›°:˜¬Põi∏‰ÔÒbE•ıüÌN’(’okœ±Y‡_œ“J/ë“èº∂}V˚≠ÑØÒ¸˘)‰o®Q)–íXhjqf¢ı–Lµ=ê·Ü˘æ¢˙j”#ﬁ˚ôè“]
+x⁄ÖëMoÇ@ÜÔ¸ä9j(üµòÙ†µIkªç/+å∞-l$Ò◊w¥jRΩÏÃÓªÛÃª≥é∂?0|«œ{0l∞\€xèP HÕπ¢.I3Õ,(
+,jñ,ì¬Æ…ã˚â	>∞¡u"∞XÎãpƒBòáK/FÛ`÷gü“-”∞¸¡˛J"JX\F)¨z;	J®nfHÇ‰Qä
+Ñ"=Âk\ıØ"⁄ yéDìXa—˝_◊t =ÍÓ°Ãπº,ÜJ∆†jQR*‰bwÔÃIçDŒBLL˛Uä-ﬁ¬‰X$zNâR<¡É?ıùJ"∂ÚÈŸÆ:l∑º§6£`∆>Ê”!‰ïR∂;U°ê«÷∂i8æ{9K=>DL?R‚•Ìì⁄◊p1!xõO^ûˆ>Ñ•%àÖeÕOL¥ö©∂˚˝\9Æ+iD%}uŸÒ”|ÎËÌß 2xÇ&›`3Á;8N´©ôˆ≈∞·Ü
 endstream
 endobj
 51 0 obj
@@ -1096,7 +1097,7 @@ endobj
 /Length 41
 /Resources <<
 /XObject <<
-/Im0 65 0 R
+/Im0 66 0 R
 >>
 >>
 /Subtype /Form
@@ -1146,7 +1147,7 @@ endobj
 /Descent -235
 /Flags 5
 /FontBBox [-51 -235 754 945]
-/FontFile2 66 0 R
+/FontFile2 67 0 R
 /FontName /TFOEGC+PTMono-Bold
 /ItalicAngle 0
 /MaxWidth 600
@@ -1174,7 +1175,7 @@ endobj
 /Descent -270
 /Flags 32
 /FontBBox [-111 -301 1486 1026]
-/FontFile3 67 0 R
+/FontFile3 68 0 R
 /FontName /MVSMHV+ApexNew-Book
 /ItalicAngle 0
 /MaxWidth 1597
@@ -1191,7 +1192,7 @@ endobj
 /Descent -270
 /Flags 32
 /FontBBox [-251 -301 1536 1121]
-/FontFile3 68 0 R
+/FontFile3 69 0 R
 /FontName /RIMATZ+ApexNew-Bold
 /ItalicAngle 0
 /MaxWidth 1787
@@ -1208,7 +1209,7 @@ endobj
 /Descent -270
 /Flags 4
 /FontBBox [-111 -301 1486 1026]
-/FontFile3 69 0 R
+/FontFile3 70 0 R
 /FontName /MVNVNL+ApexNew-Book
 /ItalicAngle 0
 /MaxWidth 1597
@@ -1247,7 +1248,7 @@ endobj
 61 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace [/Indexed /DeviceRGB 171 70 0 R]
+/ColorSpace [/Indexed /DeviceRGB 171 71 0 R]
 /Filter /FlateDecode
 /Height 64
 /Length 1888
@@ -1271,7 +1272,7 @@ endobj
 /BaseFont /CourierNew
 /Encoding /WinAnsiEncoding
 /FirstChar 32
-/FontDescriptor 71 0 R
+/FontDescriptor 72 0 R
 /LastChar 255
 /Subtype /TrueType
 /Type /Font
@@ -1976,6 +1977,30 @@ endstream
 endobj
 65 0 obj
 <<
+/BaseFont /CourierNew
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/FontDescriptor 73 0 R
+/LastChar 228
+/Subtype /TrueType
+/Type /Font
+/Widths [600 0 0 0 0 0 0 0 600 600 0 600 0 600 0 0
+0 0 0 0 0 0 0 0 0 0 600 0 0 600 0 0
+0 600 600 600 0 600 600 600 600 600 0 0 600 600 600 600
+0 0 600 600 600 600 0 600 0 0 0 0 0 0 0 0
+0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600
+600 0 600 600 600 600 600 600 0 0 600 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 600]
+>>
+endobj
+66 0 obj
+<<
 /BitsPerComponent 8
 /ColorSpace /DeviceRGB
 /Filter /FlateDecode
@@ -2030,7 +2055,7 @@ S&Mˇ0‡VÍÛ’eXc#ÁıÊåFqcâÕ˚j√ªêü.dL~◊fX›~ëa   2,6E?lp™ai\±~˛aÈØ	Ê%VÆD;ñÿõd∏°
 #“Ùeô)     SD`ÃH'¨Â‚˙ü¢<"V3®     !QQF≥V∂ÀÕd-Ó“ìM    äúàá"$^Œ®]                                                 )˝ˇû∑-&
 endstream
 endobj
-66 0 obj
+67 0 obj
 <<
 /Filter /FlateDecode
 /Length 6168
@@ -2059,7 +2084,7 @@ v‡.·rﬁãnæñs††_ËiÅ&∫&–√}E†Ot“ú|]†{*Tıé√ﬂ:EÀˇ∂/Z/ÙÙˆˆ∞˚}}âdOèâ«ÀL£
 U©≤$•<PÎ ˝buÍcEp~;^Ω.dq~ÀæóPâd?NàÀíû⁄!‡k‰<X ◊ˇ◊ŸãXó3◊Â6÷ë¸˙:ì˚>PÀæ∂ìkvÏôπÏ]ÖΩ◊\~xÒpˇ‘·C∑¸àÖ›
 endstream
 endobj
-67 0 obj
+68 0 obj
 <<
 /Filter /FlateDecode
 /Length 3681
@@ -2079,7 +2104,7 @@ YGπL#ìÈd≤±›eã)ŸgîÃ$£)jÉåRËd^ì”hŸ8é,F'˚öÍL®t™ò∫◊nLª∞vÒÌ“⁄Y⁄=óÎÂ_»ˇ©≠0(Rß
 Å÷‹ÖT69≥Ï©“~5KL%€∫⁄¢´8ê¨Z›[lƒﬂ•±˜¿Œb⁄ã¡Œˆ»ù'Ye…¡º/z√˚voÈ÷Ö¯‡<ö;åz¶"u(Ù$üwﬂ3Ëi†áÙHÜ|Í∞»-Ëq˙cM“Õ_	ÕÄ¶ŸW!ç;ÈZÚmâÙhuîNÖä/ØäŒW)—]uKY8'ÍË;5±xŒÆ£?aπwoyfø˙«2≤:é&À—cÊk≤(a†ÍÕ‹…t„°6‚ÈVe°x°çB·ù∂·«‹Á≈y_¨;£≠d∑ÜŒ¯G∞?Ó?Ñ—-âbïÒ-¬üéO»hj¥ˇ‰ŸÊˆ◊Æ§“ÚÊ=ªìí≤µˆØ=øéÏÌ›UmAËN≤“vh’6OÆg6øõ\ÿ”_´_[ÜïÖ}Ál#è“xKo;Âòñ)˜¨u ¡À∑	%”≤∂Jbı¸äˇ/´#⁄ 2˝@´⁄ "Ï3 Û-ÏC˜∂Ì€™Â6Ì_tú∑˝EÔï≤o∑Í∂∑;”ú&nLÉuif§±0≠´xùˇk⁄{∂
 endstream
 endobj
-68 0 obj
+69 0 obj
 <<
 /Filter /FlateDecode
 /Length 3017
@@ -2104,7 +2129,7 @@ b›tá€=µIXÆG’¯ü&"±ê∫µpûHÃ¿îHêïRÙ≥m`«ÜÆ
 ´*X¯–Iπ ¸≤ÉÂî
 endstream
 endobj
-69 0 obj
+70 0 obj
 <<
 /Filter /FlateDecode
 /Length 3681
@@ -2124,7 +2149,7 @@ YGπL#ìÈd≤±›eã)ŸgîÃ$£)jÉåRËd^ì”hŸ8é,F'˚öÍL®t™ò∫◊nLª∞vÒÌ“⁄Y⁄=óÎÂ_»ˇ©≠0(Rß
 Å÷‹ÖT69≥Ï©“~5KL%€∫⁄¢´8ê¨Z›[lƒﬂ•±˜¿Œb⁄ã¡Œˆ»ù'Ye…¡º/z√˚voÈ÷Ö¯‡<ö;åz¶"u(Ù$üwﬂ3Ëi†áÙHÜ|Í∞»-Ëq˙cM“Õ_	ÕÄ¶ŸW!ç;ÈZÚmâÙhuîNÖä/ØäŒW)—]uKY8'ÍË;5±xŒÆ£?aπwoyfø˙«2≤:é&À—cÊk≤(a†ÍÕ‹…t„°6‚ÈVe°x°çB·ù∂·«‹Á≈y_¨;£≠d∑ÜŒ¯G∞?Ó?Ñ—-âbïÒ-¬üéO»hj¥ˇ‰ŸÊˆ◊Æ§“ÚÊ=ªìí≤µˆØ=øéÏÌ›UmAËN≤“vh’6OÆg6øõ\ÿ”_´_[ÜïÖ}Ál#è“xKo;Âòñ)˜¨u ¡À∑	%”≤∂Jbı¸äˇ/´#⁄ 2˝@´⁄ "Ï3 Û-ÏC˜∂Ì€™Â6Ì_tú∑˝EÔï≤o∑Í∂∑;”ú&nLÉuif§±0≠´xùˇk⁄{∂
 endstream
 endobj
-70 0 obj
+71 0 obj
 <<
 /Filter /FlateDecode
 /Length 432
@@ -2135,7 +2160,22 @@ x⁄å©è2A≈ü¬¨iÅ@Ä%ì4n<äD˜1∞;Æ≈(∂«–ÇÏ1‹◊2ú√µ“◊|…Ø™^Ωó* >‡– 
 ≈b±T*ïÀe√0gïJ•Z≠æøø||ò¶Y´’⁄ZD0FßíSGO∂uÀâZÇ3…i¡ﬂB†Ö†:v sÇK¡]Ö‰55ÕnËMSW›T¡%„¢ë∞„∫gFΩF¬kÎÕvTa;äD≥ùP›n'<'·1!ôpπê\∫RW!Ö´ÜîB∫JI)m€ÓvªΩ^ÔÛÛÛÎÎÎ˚˚[πˇWçüü«q˙˝˛`0á£—h<O&ìÈt:õÕÊÛ˘b±X.óøøø´’ u›ızΩŸl∂€Ìn∑€Ô˜á√¡Ûº„Òx:ùŒÁÛÂrπ^Ø∑€Ì~ø?èÁÛ˘ ◊ÿ$
 endstream
 endobj
-71 0 obj
+72 0 obj
+<<
+/Ascent 833
+/CapHeight 571
+/Descent -300
+/Flags 32
+/FontBBox [-122 -680 623 1021]
+/FontFamily (CourierNew)
+/FontName /CourierNew
+/FontWeight 400
+/ItalicAngle 0
+/StemV 0
+/Type /FontDescriptor
+>>
+endobj
+73 0 obj
 <<
 /Ascent 833
 /CapHeight 571
@@ -2151,7 +2191,7 @@ endobj
 >>
 endobj
 xref
-0 72
+0 74
 0000000000 65535 f
 0000000015 00000 n
 0000000135 00000 n
@@ -2185,53 +2225,55 @@ xref
 0000096540 00000 n
 0000096996 00000 n
 0000097640 00000 n
-0000098518 00000 n
-0000099147 00000 n
-0000099925 00000 n
-0000099979 00000 n
-0000100027 00000 n
-0000100073 00000 n
-0000100122 00000 n
-0000100168 00000 n
-0000100473 00000 n
-0000101133 00000 n
-0000101564 00000 n
-0000101799 00000 n
-0000102001 00000 n
-0000102205 00000 n
-0000102720 00000 n
-0000102929 00000 n
-0000103286 00000 n
-0000103495 00000 n
-0000104052 00000 n
-0000104266 00000 n
-0000104756 00000 n
-0000105347 00000 n
-0000105583 00000 n
-0000106103 00000 n
-0000106345 00000 n
-0000106588 00000 n
-0000106829 00000 n
-0000107154 00000 n
-0000107971 00000 n
-0000110036 00000 n
-0000111079 00000 n
-0000112156 00000 n
-0000314202 00000 n
-0000343941 00000 n
-0000350197 00000 n
-0000353969 00000 n
-0000357077 00000 n
-0000360849 00000 n
-0000361354 00000 n
+0000098556 00000 n
+0000099185 00000 n
+0000099963 00000 n
+0000100017 00000 n
+0000100065 00000 n
+0000100111 00000 n
+0000100160 00000 n
+0000100206 00000 n
+0000100511 00000 n
+0000101171 00000 n
+0000101602 00000 n
+0000101837 00000 n
+0000102039 00000 n
+0000102243 00000 n
+0000102758 00000 n
+0000102967 00000 n
+0000103324 00000 n
+0000103533 00000 n
+0000104115 00000 n
+0000104329 00000 n
+0000104819 00000 n
+0000105410 00000 n
+0000105646 00000 n
+0000106166 00000 n
+0000106408 00000 n
+0000106651 00000 n
+0000106892 00000 n
+0000107217 00000 n
+0000108034 00000 n
+0000110099 00000 n
+0000111142 00000 n
+0000112219 00000 n
+0000314265 00000 n
+0000314916 00000 n
+0000344655 00000 n
+0000350911 00000 n
+0000354683 00000 n
+0000357791 00000 n
+0000361563 00000 n
+0000362068 00000 n
+0000362281 00000 n
 trailer
 <<
 /ID [<378D78094EE3AFCD9AA56448D2631C29> <378D78094EE3AFCD9AA56448D2631C29>]
 /Info 1 0 R
 /Root 2 0 R
-/Size 72
+/Size 74
 >>
-%PXC-Ver:10.3.1.387-Date:20241208133610-SHA:00058B11:7504EBC18A35DE059C9986A6C4554242462A2E6897202C885996930A09A0207F
+%PXC-Ver:10.3.1.387-Date:20241208135957-SHA:00058ED8:8D7CEB9A56AEA0D90C06167A8FEDF2B28316257A42078358B4905D6A1B77F232
 startxref
-361567
+362494
 %%EOF
