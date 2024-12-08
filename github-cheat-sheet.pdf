@@ -4,7 +4,7 @@
 <<
 /CreationDate 3 0 R
 /Creator 4 0 R
-/ModDate (D:20241208135552+01'00')
+/ModDate (D:20241208140214+01'00')
 /Producer 5 0 R
 /Title 6 0 R
 >>
@@ -77,7 +77,7 @@ stream
 			<xmp:MetadataDate>2014-02-24T12:57:47-07:00</xmp:MetadataDate>
 			<xmp:CreateDate>2014-02-24T20:58:05+01:00</xmp:CreateDate>
 			<xmp:CreatorTool>Adobe Illustrator CC (Macintosh)</xmp:CreatorTool>
-			<xmp:ModifyDate>2024-12-08T13:55:52+01:00</xmp:ModifyDate>
+			<xmp:ModifyDate>2024-12-08T14:02:14+01:00</xmp:ModifyDate>
 			<xmpMM:DerivedFrom rdf:parseType="Resource">
 				<stRef:renditionClass>proof:pdf</stRef:renditionClass>
 				<stRef:documentID>xmp.did:f66b41be-a20f-4bc7-95bb-9f35a2cf7b83</stRef:documentID>
@@ -742,16 +742,16 @@ endobj
 /BS <<
 /W 0
 >>
-/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit switch branchname \(wechelse der aktiven branch\)\rgit merge -m message branchevon \(merge branchevon zu branchezu\))
+/Contents (CREATE NEW BRANCH\rgit branch \(zeigen wieviele brnaches isch habe\)\rgit branch branchname \(neuer branch\)\rgit brnach -c branchenmane \(neuer branch und switch in branch\)\rgit switch branchname \(wechelse der aktiven branch\)\rgit merge -m message branchesohn \(merge branchesohn zu branchevater ACHTUNG: muss in branchevater sein\)\r\rgit branch -d branchname \(delete branch\)\r\r\r)
 /CreationDate (D:20241208134758+01'00')
 /DA (0 0 0 rg /F1 9 Tf)
 /DS (font-family:Courier New;font-size:9pt;color:#0000FF;)
 /F 4
 /IT /FreeTextTypewriter
-/M (D:20241208135552+01'00')
+/M (D:20241208140214+01'00')
 /NM (a3b1800e-64db-428a-820d96a4ee13e805)
 /P 14 0 R
-/Rect [39 389.712036 379.199982 440.697021]
+/Rect [39 328.530029 595.199951 440.697021]
 /Subj (Schreibmaschine)
 /Subtype /FreeText
 /T (mother)
@@ -967,10 +967,10 @@ endstream
 endobj
 44 0 obj
 <<
-/BBox [39 389.712036 379.199982 440.697021]
+/BBox [39 328.530029 595.199951 440.697021]
 /Filter /FlateDecode
-/Length 228
-/Matrix [1 0 0 1 -39 -389.712036]
+/Length 288
+/Matrix [1 0 0 1 -39 -328.530029]
 /Resources <<
 /Font <<
 /F0 57 0 R
@@ -980,8 +980,8 @@ endobj
 /Type /XObject
 >>
 stream
-xÚ}Ž?oÂ0Å÷|Š7Â@jcx”ª²ÄÂbÂÕqK\ÉÎ)Ÿ¾GC¥ª,÷Î÷îý|JC­u¾’s¨…ÈçXŠ\¯—ˆ„©Çæ‘í­É$¢c1å­ô‚e¸õñåU@Ã¼ƒA¥`.Ùdw(6¦À¾8b{ØìwoSóÁ ™¹Ô«Ÿçœ£e…Ód ï( ÷ÔyºÁ–%øÄ~eÏtš>EŒlMLÔR¼åRï›ÿ¹žøÏk"\8n?ßñMÏ15EG˜ÕÜ¤dÝ×©û
-Ý?£¡ý}íˆ,Lö'£x|
+xÚ…‘=oƒ0†w~ÅÉ Å8$¥A´™"WY²8p·Á•l>$~}/iK¤4‹ïì÷î¹×6€^È!—^ Œ[®À h‡ßw$¯…ãƒLIAä§¥æSN¹yxö!ñZpNQ8³d›Æ"…,ÝÁzgÉf.Þ	ä2ßcÑê»¤TŒÔyûÙ€ªD½ÂNáIÐ2¯Ð‚²¤Wò€ûù¿ˆsÐ²F¢ilÑŒG·ûNÀÍÇ:ÔµÔ×ÍÐêl¯J•¾Cë&Nz$òÑ"Ä”êð¦FS"¸5%ÖÊ/þìg¥‰x–ÿžíeÛÉ†ÆÄÉF¼f/OP·ÖþÚU‹JÿŒ|G‹ë·t‹é%
+ú‘'¶Sá|³³²
 endstream
 endobj
 45 0 obj
@@ -1843,10 +1843,10 @@ endobj
 /LastChar 122
 /Subtype /TrueType
 /Type /Font
-/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 600 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 600 600 600 0 600 0 0 600 0 0 0 0 0 600 0
-0 0 600 0 600 0 0 600 0 0 0 0 0 0 0 0
+/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 600 600 0
+0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 0
+0 600 600 600 0 600 0 600 600 0 0 0 0 0 600 0
+0 0 600 0 600 600 0 600 0 0 0 0 0 0 0 0
 0 600 600 600 600 600 0 600 600 600 0 600 600 600 600 600
 0 0 600 600 600 600 600 600 0 0 600]
 >>
@@ -2017,42 +2017,42 @@ xref
 0000095057 00000 n
 0000095513 00000 n
 0000096157 00000 n
-0000096802 00000 n
-0000096856 00000 n
-0000096904 00000 n
-0000096950 00000 n
-0000096999 00000 n
-0000097045 00000 n
-0000097350 00000 n
-0000098010 00000 n
-0000098441 00000 n
-0000098676 00000 n
-0000098878 00000 n
-0000099082 00000 n
-0000099597 00000 n
-0000099806 00000 n
-0000100163 00000 n
-0000100372 00000 n
-0000100821 00000 n
-0000101412 00000 n
-0000101648 00000 n
-0000102168 00000 n
-0000102410 00000 n
-0000102653 00000 n
-0000102894 00000 n
-0000103219 00000 n
-0000104036 00000 n
-0000106101 00000 n
-0000107144 00000 n
-0000108221 00000 n
-0000310267 00000 n
-0000310678 00000 n
-0000316934 00000 n
-0000320706 00000 n
-0000323814 00000 n
-0000327586 00000 n
-0000328091 00000 n
-0000328304 00000 n
+0000096960 00000 n
+0000097014 00000 n
+0000097062 00000 n
+0000097108 00000 n
+0000097157 00000 n
+0000097203 00000 n
+0000097508 00000 n
+0000098168 00000 n
+0000098599 00000 n
+0000098834 00000 n
+0000099036 00000 n
+0000099240 00000 n
+0000099755 00000 n
+0000099964 00000 n
+0000100321 00000 n
+0000100530 00000 n
+0000101039 00000 n
+0000101630 00000 n
+0000101866 00000 n
+0000102386 00000 n
+0000102628 00000 n
+0000102871 00000 n
+0000103112 00000 n
+0000103437 00000 n
+0000104254 00000 n
+0000106319 00000 n
+0000107362 00000 n
+0000108439 00000 n
+0000310485 00000 n
+0000310904 00000 n
+0000317160 00000 n
+0000320932 00000 n
+0000324040 00000 n
+0000327812 00000 n
+0000328317 00000 n
+0000328530 00000 n
 trailer
 <<
 /ID [<378D78094EE3AFCD9AA56448D2631C29> <378D78094EE3AFCD9AA56448D2631C29>]
@@ -2060,7 +2060,7 @@ trailer
 /Root 2 0 R
 /Size 65
 >>
-%PXC-Ver:10.3.1.387-Date:20241208125552-SHA:0005096B:26CA1E8C5E93FFDF80CA6E79C72A748832CBC9996CA5A1CAF9E48452CA649B76
+%PXC-Ver:10.3.1.387-Date:20241208130214-SHA:00050A4D:83C9C93C66D3B4D6AFFCCF20FC32E560E6458E40243CCA4F5C32B2AE92426A40
 startxref
-328517
+328743
 %%EOF
